@@ -1,6 +1,7 @@
 {
-  "name": "techlab",
+  "name": "nodejs.pre-entrega",
   "version": "1.0.0",
+  "description":"",
   "main": "index.js",
   "type": "module",
   "scripts": {
@@ -9,6 +10,8 @@
   },
   "keywords": [],
   "author": "Gloria",
-  "license": "ISC",
-  "description": ""
+  "license": "ISC"
+
+  
 }
+
